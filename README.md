@@ -7,9 +7,7 @@ Classification of tweets by 10,000 users
 ### FastText
 * Uses the `fasttext` library by Facebook for classfication of BERT-encoded tweets
 * Achieves accuracy of 16.33% on validation set
-* Parameters in code
 
 ### FastXML
 * Uses the `Refefer/fastxml` library to run the `PFastreXML` text classifier on BERT-encoded tweets
 * Achieves accuracy of 20.32% on validation set
-* Parameters in code
