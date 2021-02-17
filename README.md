@@ -10,4 +10,4 @@ Classification of tweets by 10,000 users
 
 ### FastXML
 * Uses the `Refefer/fastxml` library to run the `PFastreXML` text classifier on BERT-encoded tweets
-* Achieves accuracy of 20.32% on validation set
+* Achieves accuracy of 21.93% on validation set
